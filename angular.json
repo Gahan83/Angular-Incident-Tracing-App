@@ -85,6 +85,8 @@
               }
             ],
             "styles": [
+              "./node.modules/bootstrap/dist/css/bootstrap.min.css",
+              "./node.modules/font-awesome/css/font-awesome.min.css",
               "src/styles.css"
             ],
             "scripts": []
